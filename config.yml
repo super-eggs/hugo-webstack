@@ -1,0 +1,37 @@
+---
+baseURL: https://webstack.supereggs.cn
+languageCode: zh-CN
+title: "Super Eggs 网址导航"
+theme: WebStack-Hugo
+preserveTaxonomyNames: true
+disablePathToLower: true
+hasCJKLanguage: true
+publishDir: public
+params:
+  author: super-eggs
+  description: >
+    Webstack Hugo 网址导航 | Super Eggs
+    爱好者
+  siteurl: ./
+  about: ./about
+  repository: >
+    https://github.com/shenweiyan/WebStack-Hugo
+  enablePreLoad: true
+  textPreLoad: "Super Eggs 网址导航"
+  logosPath: assets/images/logos
+  qweather:
+    key: 085791e805a24491b43b06cf58ab31e7
+  images:
+    favicon: assets/images/favicon.png
+    searchImageL: assets/images/search-bg-light.jpg
+    searchImageD: assets/images/search-bg-dark.jpg
+    logoExpandLight: assets/images/bioitee-expand-light.png
+    logoExpandDark: assets/images/bioitee-expand-dark.png
+    logoCollapseLight: assets/images/logo-collapse-light.png
+    logoCollapseDark: assets/images/logo-collapse-dark.png
+  footer:
+    copyright: "本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：superegg@88.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [京ICP备18007704号-3](http://beian.miit.gov.cn/)<br/>"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
