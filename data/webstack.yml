@@ -297,6 +297,10 @@
           description: Search & download thousands of logos instantly.
     - term: 平面素材
       links:
+        - title: UISET
+          logo: https://uiset.com//favicon.ico
+          url: https://uiset.com/
+          description: 免费优质的 UI 资源集合
         - title: 站酷
           logo: https://api.iowen.cn/favicon/www.zcool.com.cn.png
           url: https://www.zcool.com.cn/
