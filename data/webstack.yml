@@ -113,6 +113,11 @@
           logo: https://api.iowen.cn/favicon/laravel.com.png
           url: https://laravel.com/
           description: Laravel 官网
+        - title: Laravel News
+          logo: https://api.iowen.cn/favicon/laravel-news.com.png
+          url: https://laravel-news.com/
+          description: Laravel 官网
+        
 
 - taxonomy: 学习资料
   icon: fas fa-snowboarding fa-lg
@@ -257,10 +262,6 @@
           logo: flaticon.png
           url: https://www.flaticon.com/
           description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
         - title: Material icons
           logo: Materialicons.png
           url: https://material.io/icons/
@@ -277,6 +278,18 @@
           logo: simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack.
+        - title: Fontello
+          logo: default_url.ico
+          url: http://fontello.com/
+          description: 图标字体生成器
+        - title: inconfont
+          logo: default_url.ico
+          url: https://www.iconfont.cn
+          description: 免费提供高度可辨识符号图标
+        - title: The Noun Project
+          logo: default_url.ico
+          url: https://thenounproject.com
+          description: 免费提供高度可辨识符号图标
     - term: 图标设计
       links:
         - title: Iconsfeed
@@ -295,6 +308,17 @@
           logo: InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly.
+    - term: 高清图库
+      links:
+        - title: 花瓣
+          logo: https://api.iowen.cn/favicon/huaban.com.png
+          url: https://huaban.com/
+          description: 设计师寻找灵感的天堂
+        - title: pexels
+          logo: https://api.iowen.cn/favicon/pexels.com.png
+          url: https://www.pexels.com
+          description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
+        
     - term: 平面素材
       links:
         - title: UISET
@@ -305,10 +329,6 @@
           logo: https://api.iowen.cn/favicon/www.zcool.com.cn.png
           url: https://www.zcool.com.cn/
           description: 站酷 (ZCOOL)，中国设计师互动平台。
-        - title: pexels
-          logo: https://api.iowen.cn/favicon/pexels.com.png
-          url: https://www.pexels.com
-          description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
         - title: freepik
           logo: freepik.png
           url: https://www.freepik.com/
@@ -659,6 +679,14 @@
           url: https://www.coolshell.cn/
           logo: default_url.ico
           description: 酷 壳 – CoolShell。
+        - title: 外刊 IT 评论
+          url: https://www.aqee.net/
+          logo: default_url.ico
+          description: 外刊 IT 评论
+        - title: HelloGitHub
+          url: https://hellogithub.com/
+          logo: default_url.ico
+          description: HelloGitHub 是一个分享有趣、 入门级开源项目的平台。
 
     - term: 设计规范
       links:
