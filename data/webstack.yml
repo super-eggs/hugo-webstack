@@ -22,6 +22,10 @@
       logo: github.jpg
       url: https://github.com/
       description: GitHub 开源社区。
+    - title: 码云
+      logo: https://api.iowen.cn/favicon/gitee.com.png
+      url: https://gitee.com/
+      description: 码云 开源社区。
     - title: Md2X 定制版
       logo: mdx.png
       url: https://md2x.com/
@@ -76,6 +80,16 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
+    - term: 资源搜索
+      links:
+        - title: 盘大圣
+          logo: https://www.dashengpan.com/logo.png
+          url: https://www.dashengpan.com/#/main/search
+          description: 阿里盘百度盘夸克盘资源搜索
+        - title: 小纸条
+          logo: default.png
+          url: https://ali.gitcafe.ink/
+          description: 丰富的网盘资源
     - term: 邮箱
       links:
         - title: QQ 邮箱
@@ -99,6 +113,10 @@
           logo: https://api.iowen.cn/favicon/studygolang.com.png
           url: https://studygolang.com/
           description: go 语言中文网
+        - title: 地鼠文档
+          logo: https://api.iowen.cn/favicon/www.topgoer.cn.png
+          url: https://www.topgoer.cn/
+          description: go语言文档网站通过收集整理go语言相关的学习文档
     - term: PHP
       links:
         - title: Laravel China 社区
@@ -116,18 +134,49 @@
         - title: Laravel News
           logo: https://api.iowen.cn/favicon/laravel-news.com.png
           url: https://laravel-news.com/
-          description: Laravel 官网
-        
+          description: Laravel 官网文章
+    - term: DevOps
+      links:
+        - title: 建木
+          logo: https://api.iowen.cn/favicon/jianmu.dev.png
+          url: https://jianmu.dev/
+          description: 面向DevOps领域的极易扩展的开源无代码(图形化)/低代码(GitOps)工具
+    - term: UI
+      links:
+        - title: Sailboat UI
+          logo: https://api.iowen.cn/favicon/sailboatui.com.png
+          url: https://sailboatui.com/
+          description: Sailboat UI 是 Tailwind CSS 的现代 UI 组件库
+
+- taxonomy: Ai 智能
+  icon: fas fa-snowboarding fa-lg
+  list:
+    - term: 免费 ChatGpt
+      links:
+        - title: aichatos
+          logo: default-chatgpt-favicon.svg
+          url: https://chat1.aichatos.com
+          description: ChatGpt
+        - title: chatgptdemo.net
+          logo: default-chatgpt-favicon.svg
+          url: https://chat.chatgptdemo.net/
+          description: ChatGpt
+    - term: AI 工具
+      links:
+        - title: ReviewGPT
+          logo: https://reviewgpt.net/logo.png
+          url: https://reviewgpt.net/
+          description: 让你的写作很棒，人工智能驱动
+        - title: chatgptdemo.net
+          logo: default-chatgpt-favicon.svg
+          url: https://chat.chatgptdemo.net/
+          description: ChatGpt
 
 - taxonomy: 学习资料
   icon: fas fa-snowboarding fa-lg
   list:
     - term: 开源书籍
       links:
-        - title: 地鼠文档
-          logo: https://api.iowen.cn/favicon/www.topgoer.cn.png
-          url: https://www.topgoer.cn/
-          description: go语言文档网站通过收集整理go语言相关的学习文档
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
@@ -308,17 +357,6 @@
           logo: InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly.
-    - term: 高清图库
-      links:
-        - title: 花瓣
-          logo: https://api.iowen.cn/favicon/huaban.com.png
-          url: https://huaban.com/
-          description: 设计师寻找灵感的天堂
-        - title: pexels
-          logo: https://api.iowen.cn/favicon/pexels.com.png
-          url: https://www.pexels.com
-          description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
-        
     - term: 平面素材
       links:
         - title: UISET
@@ -381,6 +419,22 @@
           logo: sccnn.png
           url: http://www.sccnn.com/
           description: 免费素材共享平台。
+        - title: pixabay
+          logo: https://api.iowen.cn/favicon/pixabay.com.png
+          url: https://pixabay.com/zh/
+          description: 精彩的免版税图片和免版税库存
+        - title: videezy
+          logo: https://api.iowen.cn/favicon/www.videezy.com.png
+          url: https://www.videezy.com/
+          description: 免费高清视频和4k视频!
+        - title: 花瓣
+          logo: https://api.iowen.cn/favicon/huaban.com.png
+          url: https://huaban.com/
+          description: 设计师寻找灵感的天堂
+        - title: pexels
+          logo: https://api.iowen.cn/favicon/pexels.com.png
+          url: https://www.pexels.com
+          description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
     - term: 字体资源
       links:
         - title: Google Font
@@ -687,6 +741,14 @@
           url: https://hellogithub.com/
           logo: default_url.ico
           description: HelloGitHub 是一个分享有趣、 入门级开源项目的平台。
+        - title: SuperEggs
+          url: https://www.supereggs.cn/
+          logo: https://www.supereggs.cn/img/Q.png
+          description: 站长博客
+        - title: 吾爱论坛
+          url: https://www.52pojie.cn/
+          logo: https://avatar.52pojie.cn/images/noavatar_middle.gif
+          description: 超多资源分享,技术分析
 
     - term: 设计规范
       links:
