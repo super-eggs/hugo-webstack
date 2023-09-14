@@ -23,7 +23,7 @@
       url: https://github.com/
       description: GitHub 开源社区。
     - title: 码云
-      logo: https://api.iowen.cn/favicon/gitee.com.png
+      logo: gitee.com.ico
       url: https://gitee.com/
       description: 码云 开源社区。
     - title: Md2X 定制版
@@ -83,7 +83,7 @@
     - term: 资源搜索
       links:
         - title: 盘大圣
-          logo: https://www.dashengpan.com/logo.png
+          logo: dashengpan_com.png
           url: https://www.dashengpan.com/#/main/search
           description: 阿里盘百度盘夸克盘资源搜索
         - title: 小纸条
@@ -360,8 +360,8 @@
     - term: 平面素材
       links:
         - title: UISET
-          logo: https://uiset.com//favicon.ico
-          url: https://uiset.com/
+          logo: default_url.ico
+          url: https://uiset.com
           description: 免费优质的 UI 资源集合
         - title: 站酷
           logo: https://api.iowen.cn/favicon/www.zcool.com.cn.png
@@ -416,11 +416,11 @@
           url: http://psefan.com/
           description: 不一样的设计素材库！让自己的设计与众不同！
         - title: 素材中国
-          logo: sccnn.png
+          logo: default_url.ico
           url: http://www.sccnn.com/
           description: 免费素材共享平台。
         - title: pixabay
-          logo: https://api.iowen.cn/favicon/pixabay.com.png
+          logo: pixabay.com.ico
           url: https://pixabay.com/zh/
           description: 精彩的免版税图片和免版税库存
         - title: videezy
