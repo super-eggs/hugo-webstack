@@ -117,6 +117,24 @@
           logo: https://api.iowen.cn/favicon/www.topgoer.cn.png
           url: https://www.topgoer.cn/
           description: go语言文档网站通过收集整理go语言相关的学习文档
+        - title: Golang中文学习文档站
+          logo: https://golang.halfiisland.com/logo.png
+          url: https://golang.halfiisland.com/
+          description: Go爱好者驱动的中文学习站
+        - title: Grom 中文文档
+          logo: https://gorm.io/gorm.svg
+          url: https://gorm.io/zh_CN/
+          description: ORM 库
+    - term: 前端
+      links:
+        - title: tailwind 中文站
+          logo: tailwind.jpg
+          url: https://tailwind.nodejs.cn/
+          description: 只需 HTML 即可快速构建现代网站
+        - title: Flowbite
+          logo: https://flowbite.com/images/logo.svg
+          url: https://flowbite.com/
+          description: 在 tailwind 之上使用组件更快地建立网站
     - term: PHP
       links:
         - title: Laravel China 社区
@@ -135,6 +153,11 @@
           logo: https://api.iowen.cn/favicon/laravel-news.com.png
           url: https://laravel-news.com/
           description: Laravel 官网文章
+        - title: Laravel livewire
+          logo: livewire.jpg
+          url: https://livewire.laravel.com/
+          description: Livewire 是一个适用于 Laravel 的全栈框架，我们可以通过它来构建动态的前端功能，就像写原生 PHP 代码一样.
+
     - term: DevOps
       links:
         - title: 建木
@@ -195,10 +218,6 @@
           logo: 华为云.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
         - title: 青椒云
           logo: 青椒云.jpg
           url: https://www.qingjiaocloud.com/
@@ -359,10 +378,14 @@
           description: Search & download thousands of logos instantly.
     - term: 平面素材
       links:
-        - title: UISET
+        - title: undraw 插画
           logo: default_url.ico
-          url: https://uiset.com
-          description: 免费优质的 UI 资源集合
+          url: https://undraw.co/illustrations
+          description: 插画资源
+        - title: igoutu 插画
+          logo: default_url.ico
+          url: https://igoutu.cn/illustrations/style--pale
+          description: 插画资源
         - title: 站酷
           logo: https://api.iowen.cn/favicon/www.zcool.com.cn.png
           url: https://www.zcool.com.cn/
@@ -585,6 +608,14 @@
           description: Design, prototype, and gather feedback all in one place with Figma.
     - term: 在线配色
       links:
+        - title: 调色板 Arco
+          logo: default_url.ico
+          url: https://arco.design/palette/list
+          description: 调色板 Arco
+        - title: 🇨🇳中国色
+          logo: default_web.ico
+          url: http://zhongguose.com/
+          description: 色谱 中科院科技情报编委会名词室.科学出版社
         - title: khroma
           url: http://khroma.co/generator/
           logo: khroma.png
